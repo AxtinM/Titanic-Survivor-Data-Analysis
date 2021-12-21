@@ -7,5 +7,3 @@
 2. `cd {project_name} `
 3. `source bin/activate` or `. bin/activate`
 4. `pip install -r requirements.txt`
-
-com
